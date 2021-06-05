@@ -22,7 +22,7 @@
     "@react-native-firebase/app": "^11.4.1",
     "@react-native-firebase/messaging": "^11.4.1",
     "@react-native-google-signin/google-signin": "^6.0.0",
-    "@react-navigation/native": "^5.9.3",
+    "@react-navigation/native": "^5.9.4",
     "appcenter": "4.1.0",
     "appcenter-analytics": "4.1.0",
     "appcenter-crashes": "4.1.0",
