@@ -1147,10 +1147,10 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
-"@react-native-async-storage/async-storage@^1.14.1":
-  version "1.14.1"
-  resolved "https://registry.yarnpkg.com/@react-native-async-storage/async-storage/-/async-storage-1.14.1.tgz#3c2ff2b1a312df3b1c809a60fa88665e50a095b8"
-  integrity sha512-UkLUox2q5DKNYB6IMUzsuwrTJeXGLySvtQlnrqd3fd+96JErCT4X3xD+W1cvQjes0nm0LbaELbwObKc+Tea7wA==
+"@react-native-async-storage/async-storage@^1.15.4":
+  version "1.15.5"
+  resolved "https://registry.yarnpkg.com/@react-native-async-storage/async-storage/-/async-storage-1.15.5.tgz#0d221a5ef1cd7a6494a42fcaad43136d68379afb"
+  integrity sha512-4AYehLH39B9a8UXCMf3ieOK+G61wGMP72ikx6/XSMA0DUnvx0PgaeaT2Wyt06kTrDTy8edewKnbrbeqwaM50TQ==
   dependencies:
     deep-assign "^3.0.0"
 
@@ -3793,9 +3793,9 @@ getpass@^0.1.1:
     assert-plus "^1.0.0"
 
 glob-parent@^5.0.0:
-  version "5.1.1"
-  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.1.tgz#b6c1ef417c4e5663ea498f1c45afac6916bbc229"
-  integrity sha512-FnI+VGOpnlGHWZxthPGR+QhR78fuiK0sNLkHQv+bL9fQi57lNNdquIbna/WrfROrolq8GK5Ek6BiMwqL/voRYQ==
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
+  integrity sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow==
   dependencies:
     is-glob "^4.0.1"
 
@@ -6692,10 +6692,10 @@ react-native-dark-mode@^0.2.2:
     events "^3.0.0"
     toolkit.ts "^0.0.2"
 
-react-native-device-info@^8.0.6:
-  version "8.0.6"
-  resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-8.0.6.tgz#5c1229ec89a6dc7b026f82d38fd545a098063988"
-  integrity sha512-gPLl8CmVhLRGDgZKiz+rXJyMGYRH8DYMTBZrhl4kXXZr+LUBqz/6s5epcNZ17L0bKn9d/r5lh1sfbeiYGXgXmg==
+react-native-device-info@^8.1.2:
+  version "8.1.3"
+  resolved "https://registry.yarnpkg.com/react-native-device-info/-/react-native-device-info-8.1.3.tgz#022fc01372632bf80c0a6d201aab53344efc715f"
+  integrity sha512-73e3wiGFL8DvIXEd8x4Aq+mO8mZvHARwfYorIEu+X0trLHY92bP5Ict8DJHDjCQ0+HtAvpA4Wda2VoUVN1zh6Q==
 
 react-native-drawer@2.5.1:
   version "2.5.1"
